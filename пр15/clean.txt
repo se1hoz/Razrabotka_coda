@@ -1,0 +1,6 @@
+Hello world Hello Python
+Python is great Is it not
+Yes Python is great indeed
+Great things come to those who wait
+Another LINE starts here
+And this line starts with lowercase
